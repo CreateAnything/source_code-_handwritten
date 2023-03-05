@@ -1,0 +1,15 @@
+{
+  "description": "",
+  "scripts": {
+    "dev": "webpack-dev-server",
+    "build": "webpack"
+  },
+  "dependencies": {
+    "html-webpack-plugin": "^5.5.0",
+    "ts-loader": "^9.4.2",
+    "webpack-dev-server": "^4.11.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.0.1"
+  }
+}
